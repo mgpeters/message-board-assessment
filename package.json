@@ -4,7 +4,8 @@
   "description": "Practice CRUD app - Codesmith Assessment",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "nodemon server/server.js",
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mgpeters/message-board-assessment/issues"
   },
-  "homepage": "https://github.com/mgpeters/message-board-assessment#readme"
+  "homepage": "https://github.com/mgpeters/message-board-assessment#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
