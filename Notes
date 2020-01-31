@@ -1,0 +1,6 @@
+CREATE TABLE Messages (
+message_id SERIAL PRIMARY KEY,
+user_name varchar (25),
+message varchar (100),
+FOREIGN KEY (user_name) REFERENCES Users (user_name)
+)

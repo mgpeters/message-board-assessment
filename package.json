@@ -1,0 +1,19 @@
+{
+  "name": "message-board-assessment",
+  "version": "1.0.0",
+  "description": "Practice CRUD app - Codesmith Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgpeters/message-board-assessment.git"
+  },
+  "author": "m peters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgpeters/message-board-assessment/issues"
+  },
+  "homepage": "https://github.com/mgpeters/message-board-assessment#readme"
+}
